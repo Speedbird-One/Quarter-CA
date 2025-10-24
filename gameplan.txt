@@ -1,0 +1,31 @@
+Quarter CA Gameplan:
+
+We take:
+1. Balance Sheet
+2. Income Statement
+3. Cashflow Statement
+4. Planned Budget (maybe)
+
+We Gibe:
+1\. Budget vs Actual Report
+2\. Cashflow Forecast
+3\. Key Financial Ratios Report
+4\. Summary in ENGLISH (like normal ENGLISH)
+5\. Suggestions in ENGLISH
+
+ - More/less liquid assets
+ - More/less fixed assets
+ - More/less investment
+ - More/less debt
+ - Borrowing capacity
+ - More/less equity
+
+Flow (of blood):
+
+Frontend --> Flask Backend --> (PDF) Convert to Excel --> Analysis (using Rule-based-engine) --> Pipe to Open AI API (get insight in ENGLISH) --> Back to frontend --> *MONEH*
+        		    |          			     ^	  (or just the Kaggle shit)		         (do sike prompt engineering)
+			    |________________________________|
+				        (Excel)
+
+
+
