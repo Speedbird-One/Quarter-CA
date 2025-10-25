@@ -1,0 +1,89 @@
+Income Statement:
+Revenue
+- Revenue from operations
+- Other income
+
+Expenses
+- Cost of materials consumed
+- Purchases of stock-in-trade
+- Changes in inventories of goods, work-in-progress and stock-in-trade
+- Employee benefit expense
+- Finance cost
+- Amortization & Depreciation
+- Other expenses
+
+Profit before exceptional items and tax
+
+Exceptional items before tax
+
+Profit/(Loss) before tax
+
+Tax Expense	
+- Current tax
+- Deferred tax
+
+Profit/(Loss) for the year
+
+Balance Sheet:
+Assets
+- Non-current assets
+  - Property, plant and equipment	
+  - Capital work-in-progress	
+  - Goodwill	
+  - Intangible assets under development
+  - Investments accounted for using equity method
+  - Non-current financial assets
+    - Non-current investments	
+    - Loans, non-current	
+    - Other non-current finnancial assets
+  - Deferred tax assets (net)	
+  - Other non-current assets	
+  - Other intangible assets	
+
+- Current assets	
+  - Inventories	
+  - Current financial assets
+    - Current investments	
+    - Trade receivables, current
+    - Cash and cash equivalents
+    - Bank balance other than cash
+    - Loans, current	
+    - Other current financial assets
+  - Other current assets
+
+- Non-current assets classified as held for sale
+
+Equity and liabilities
+- Equity
+  - Equity attributable to owners of parent
+    - Equity share capital
+    - Other equity
+  - Non controlling interest
+- Liabilities
+  - Non-current liabilities
+    - Non-currentfinancial liabilities
+      - Borrowings, noncurrent
+      - Other non-current financial liabilities
+    - Provisions, non-current
+    - Deferred tax liabilities (net)
+    - Other non-current liabilities
+  - Current liabilities
+    - Currentfinancial liabilities
+      - Borrowings, current
+      - Trade payables, current
+      - Other current financial liabilities
+    - Provisions, current
+    - Other current liabilities
+
+Cash Flow Statement:
+- Cash flow from operating activities
+- Net cash from/(used in) operating activities
+- Cash flow from investing activities
+- Net cash from/(used in) investing activities
+- Cash flow from financing activities
+- Net cash from/(used) in financing activities
+- Net increase (decrease) in cash and cash equivalents before effect of exchange rate changes
+- Effect of exchange rate changes on cash and cash equivalents
+- Net increase /(decrease) in cash and cash equivalents
+- Cash and cash equivalents at the beginning of the year
+- Cash and cash equivalents at the end of the year
